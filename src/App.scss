@@ -1,0 +1,16 @@
+@import "./styles/base/reset";
+@import "./styles/base//reset";
+// @import "./styles/base.scss";
+@import "./containers/Header";
+@import "./containers/HeroSlider";
+@import "./containers/SmallBanner";
+@import "./containers/ProductArea";
+@import "./containers/MediumBanner";
+@import "./containers/MostPopular";
+@import "./containers/ShopHomeList";
+@import "./containers/CountDown";
+@import "./containers/ShopBlog";
+@import "./containers/ShopServices";
+@import "./containers/ShopNewsletter";
+@import "./containers/Footer";
+@import "./styles/base/responsive";
