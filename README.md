@@ -5,7 +5,7 @@
 - React 16
 - Webpack 4
 - Babel 7
-- Hot Module Replacement
+- Hot Module Reload
 
 ## DIY Add-Ons
 
